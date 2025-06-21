@@ -1,13 +1,13 @@
 import requests
 
-# === ✅ STEP 1: Replace these two lines ===
+
 prediction_key = "1OIDhuJKwQZbBZEmrg3PJ9WKuXCp0DybLcusfhy5w6hh4Z19JMrSJQQJ99BFACYeBjFXJ3w3AAAIACOGZrsb"  
 endpoint = "https://visionapphanan01-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/21c1f6d0-a281-44f2-b8f6-17578d93bf1e/classify/iterations/Iteration1/image"        
 
-# === ✅ STEP 2: Make sure the published name is correct ===
+
 published_name = "Iteration1"                # This usually stays as 'Iteration1'
 
-# === ✅ STEP 3: Make sure your image file is correct ===
+
 image_path = "apple.jpeg"                     # Must match the exact file name
 
 
