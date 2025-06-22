@@ -54,7 +54,7 @@ This project was created with ❤️ by **Hanan Mohamed**, using:
 If you'd like help setting up your own image classification project,
 feel free to message me or open an issue!
 
-Created by: **Hanan Mohamed**
+Created by: 🧑‍💻 Hanan Mohamed
 
 
 
